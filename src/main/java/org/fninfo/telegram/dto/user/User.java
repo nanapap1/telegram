@@ -1,4 +1,4 @@
-package org.fninfo.telegram.dto.model;
+package org.fninfo.telegram.dto.user;
 
 import com.google.gson.annotations.SerializedName;
 
